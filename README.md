@@ -1,4 +1,4 @@
-# MySqlVault for Spigot/Bungeecord 1.8.8
+# MySqlVault for Spigot 1.8.8
 VaultPlugin working with MySql databases to sync data between servers (GrieferGames Bewerbung)
 
 --------------------------------------------------------------------------------------------------------------
