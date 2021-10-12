@@ -11,7 +11,7 @@ import org.bukkit.entity.Player;
 /**
  * Autor: KeinJulian
  * Version: 1.0.0
- * Erstellt am: 12.10.2021
+ * Erstellt am: 10.10.2021
  */
 
 public class EcoCommand implements CommandExecutor {
