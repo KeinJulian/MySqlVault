@@ -1,0 +1,9 @@
+name: MySqlVault
+author: KeinJulian
+version: 1.0.0
+main: de.vault.main.Main
+
+commands:
+  pay:
+  money:
+  eco:
