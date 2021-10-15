@@ -21,19 +21,19 @@ How to install:
 
 --------------------------------------------------------------------------------------------------------------
 
-Commands: 
- /pay (Spielername) (Betrag) 
- /eco (set/give) (Spielername) (Betrag) 
- /money (Spielername) 
+**Commands**: 
+ **/pay** (Spielername) (Betrag) 
+ **/eco** (set/give) (Spielername) (Betrag) 
+ **/money** (Spielername) 
  
  --------------------------------------------------------------------------------------------------------------
  
-Pay Befehl:
+**Pay Befehl**:
 - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um anderen Spielern Geld zu überweisen
 
 Permission: Keine
 
-Eco Befehl:
+**Eco Befehl**:
   Give: 
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um anderen Spielern Geld hinzuzufügen
   Set: 
@@ -41,7 +41,7 @@ Eco Befehl:
   
   Permission: "vault.eco.modify"
   
-Money Befehl:
+**Money Befehl**:
   Eigener Kontostand (/money):
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um den eigenen Kontostand einzusehen
   Fremder Kontostand (/money (Spielername)):
