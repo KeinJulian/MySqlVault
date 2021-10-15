@@ -11,20 +11,20 @@ Sorgfalt bei Features und Fehlerbehebung, sowie das allgemeine Programmieren von
 Falls Fragen oder Probleme aufkommen, würde ich mich darüber freuen, wenn Sie mich anschreiben und Fragen :D
 
 --------------------------------------------------------------------------------------------------------------
-
-How to install:
-1. Put .jar into Plugins folder
-2. Reload server
-3. Edit the config.yml in plugins/MySqlVault and fill in your database information
-4. Reload server once again
-5. Enjoy!
+ 
+How to install: 
+1. Put .jar into Plugins folder 
+2. Reload server 
+3. Edit the config.yml in plugins/MySqlVault and fill in your database information 
+4. Reload server once again 
+5. Enjoy! 
 
 --------------------------------------------------------------------------------------------------------------
 
 Commands: 
- /pay (Spielername) (Betrag)
- /eco (set/give) (Spielername) (Betrag)
- /money (Spielername)
+ /pay (Spielername) (Betrag) 
+ /eco (set/give) (Spielername) (Betrag) 
+ /money (Spielername) 
  
  --------------------------------------------------------------------------------------------------------------
  
@@ -34,9 +34,9 @@ Pay Befehl:
 Permission: Keine
 
 Eco Befehl:
-  Give:
+  Give: 
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um anderen Spielern Geld hinzuzufügen
-  Set:
+  Set: 
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um den Kontostand von anderen Spielern anzupassen
   
   Permission: "vault.eco.modify"
