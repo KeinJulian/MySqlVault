@@ -21,10 +21,10 @@ How to install:
 
 --------------------------------------------------------------------------------------------------------------
 
-**Commands**: 
- **/pay** (Spielername) (Betrag) 
- **/eco** (set/give) (Spielername) (Betrag) 
- **/money** (Spielername) 
+**Commands**:\
+ **/pay** (Spielername) (Betrag)\
+ **/eco** (set/give) (Spielername) (Betrag)\
+ **/money** (Spielername)
  
  --------------------------------------------------------------------------------------------------------------
  
@@ -33,20 +33,36 @@ How to install:
 
 Permission: Keine
 
-**Eco Befehl**:
-  Give: 
-  - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um anderen Spielern Geld hinzuzufügen
-  Set: 
+
+
+----------------------------------------------------------------
+
+
+
+**Eco Befehl**:\
+  Give:
+  - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um anderen Spielern Geld hinzuzufügen\
+  
+  Set:
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um den Kontostand von anderen Spielern anzupassen
   
   Permission: "vault.eco.modify"
   
-**Money Befehl**:
+  
+  
+  ----------------------------------------------------------------
+  
+  
+ 
+**Money Befehl**:\
   Eigener Kontostand (/money):
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um den eigenen Kontostand einzusehen
+  
   Fremder Kontostand (/money (Spielername)):
   - Diesen Befehl können sowohl Spieler, als auch die Konsole nutzen, um den Kontostand eines fremden Spielers einzusehen
   
 Permission: "vault.money.others"
+
+
 
 --------------------------------------------------------------------------------------------------------------
